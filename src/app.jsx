@@ -1,11 +1,11 @@
 import React from "react";
 import OfferBanner from "./components/OfferBanner.jsx";
 import Navbar from "./components/NavBar.jsx";
-import HeroSection from "./components/HeroSection.jsx";
-import EssentialSkills from "./components/EssentialSkills.jsx";
+import Hero from "./components/HeroSection.jsx";
+import ESkills from "./components/EssentialSkills.jsx";
 import PersonalPlan from "./components/PersonalPlan.jsx";
-import FeaturedCourses from "./components/FeaturedCourses.jsx";
-import TrustedCompaniesSection from "./components/TrustedCompaniesSection.jsx";
+import OfferedCourses from "./components/FeaturedCourses.jsx";
+import PartnerCompaniesSection from "./components/TrustedCompaniesSection.jsx";
 import "./global.css";
 
 const App = () => {
@@ -13,11 +13,11 @@ const App = () => {
     <div className="App">
       <OfferBanner />
       <Navbar />
-      <HeroSection />
-      <EssentialSkills />
+      <Hero />
+      <ESkills />
       <PersonalPlan />
-      <FeaturedCourses />
-      <TrustedCompaniesSection />
+      <OfferedCourses />
+      <PartnerCompaniesSection />
     </div>
   );
 };

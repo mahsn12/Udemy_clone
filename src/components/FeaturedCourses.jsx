@@ -2,7 +2,7 @@
 import React from "react";
 import { courses, skillCategories } from "../data";
 
-const FeaturedCourses = () => {
+const OfferedCourses = () => {
   return (
     <section className="featured-courses">
       <h2>Featured Courses</h2>
@@ -36,4 +36,4 @@ const FeaturedCourses = () => {
   );
 };
 
-export default FeaturedCourses;
+export default OfferedCourses;

@@ -2,7 +2,7 @@
 import React from "react";
 import { careerSkills } from "../data";
 
-const EssentialSkills = () => {
+const ESkills = () => {
   return (
     <section className="essential-skills">
       <div className="essential-skills-container">
@@ -30,4 +30,4 @@ const EssentialSkills = () => {
   );
 };
 
-export default EssentialSkills;
+export default ESkills;

@@ -2,7 +2,7 @@
 import React from "react";
 import { trustedCompanies } from "../data";
 
-const TrustedCompaniesSection = () => {
+const PartnerCompaniesSection = () => {
   return (
     <section className="trusted">
       <p>Trusted by top companies worldwide</p>
@@ -20,4 +20,4 @@ const TrustedCompaniesSection = () => {
   );
 };
 
-export default TrustedCompaniesSection;
+export default PartnerCompaniesSection;
