@@ -9,8 +9,8 @@ const Hero = () => {
         </div>
         <div className="hero-content">
           <div className="hero-text">
-            <h1>Learn skills for your future</h1>
-            <p>Join millions of learners and get access to top-quality courses.</p>
+            <h1>Learn more, spend less — Black Friday Sale from E£279.99</h1>
+            <p>Sitewide savings on thousands of courses. Ends Nov 28.</p>
             <button className="cta-button">Get Started</button>
           </div>
         </div>

@@ -7,9 +7,9 @@ const ESkills = () => {
     <section className="essential-skills">
       <div className="essential-skills-container">
         <div className="essential-skills-text">
-          <h2>Essential Skills</h2>
+          <h2>Learn essential career and life skills</h2>
           <p className="description">
-            Gain the most in-demand skills to advance your career and personal growth.
+            Udemy helps you build in-demand skills fast and advance your career in a changing job market..
           </p>
         </div>
 

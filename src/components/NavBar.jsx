@@ -12,8 +12,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className="right">
-        <a href="#" className="nav-link">Categories</a>
-        <a href="#" className="nav-link">Wishlist</a>
+        <a href="#" className="nav-link">Plans & Pricing</a>
+        <a href="#" className="nav-link">Udemy Business</a>
         <div className="nav-icons">
           <ShoppingCart className="nav-icon" />
           <Globe className="nav-icon" />
